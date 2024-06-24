@@ -1,4 +1,11 @@
 config.ini
+*.pid
+settings.json
+.idea
+/cachedir/
+.vscode
+test
+log
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -16,7 +23,6 @@ dist/
 downloads/
 eggs/
 .eggs/
-lib/
 lib64/
 parts/
 sdist/
